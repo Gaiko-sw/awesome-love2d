@@ -52,6 +52,12 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## AI
 *Navigation, Decision-Making and AI Libraries*
 
+### Recommended
+
+### Use Case Specific
+
+### Others
+
 * [Jumper](https://github.com/Yonaba/Jumper) - Grid-based pathfinding library.
 * [Lua-star](https://github.com/wesleywerner/lua-star) - Easy and pure Lua A* path finding.
 * [astar](https://github.com/xiejiangzhi/astar) - An other A* library. Any map (grid, point, mesh or infinite map) and support path cost.
@@ -62,6 +68,12 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 ## Animation
 *Animation & Frame-Managing Libraries*
+
+### Recommended
+
+### Use Case Specific
+
+### Others
 
 * [andross](https://github.com/pfirsich/andross) - A Lua library for 2D skeletal/bone animations with a Löve backend.
 * [anim8](https://github.com/kikito/anim8) - Animation library.
@@ -78,6 +90,12 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Camera
 *Viewport & Camera Libraries*
 
+### Recommended
+
+### Use Case Specific
+
+### Others
+
 * [Brady](https://github.com/davisdude/Brady) - Camera library with parallax scrolling.
 * [cam11](https://notabug.org/pgimeno/cam11) - Camera library that leverages the Transform object introduced in love2d 11.0+.
 * [Editgrid](https://github.com/bakpakin/Editgrid) - Gamera and HUMP compatible scaling grid.
@@ -87,6 +105,12 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 ## Development
 *Development assisting Libraries, that enrich your development experience*
+
+### Recommended
+
+### Use Case Specific
+
+### Others
 
 * [FPSGraph](https://github.com/icrawler/FPSGraph) - Small FPS graphing utility.
 * [debugGraph](https://github.com/Mechazawa/Love-Debug-Graph) - Small OO FPS graphing utillity based on FPSGraph.
@@ -102,6 +126,12 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 ## Drawing
 *Drawing specific Libraries, that simplify the Drawing process*
+
+### Recommended
+
+### Use Case Specific
+
+### Others
 
 * [Artal](https://github.com/unXedDani/Artal) - A .PSD parsing library for LÖVE.
 * [Autobatch](https://github.com/rxi/autobatch) - Small LÖVE module to automate the use of SpriteBatches.
@@ -126,6 +156,12 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Entity
 *Entity and Gameobject Managing Libraries*
 
+### Recommended
+
+### Use Case Specific
+
+### Others
+
 * [adorbs](https://github.com/JosephShering/adorbs) - Minimal, Functional Entity Component System.
 * [Concord](https://github.com/Tjakka5/Concord) - A feature-complete ECS library.
 * [ecs-lua](https://github.com/nidorx/ecs-lua) - ECS Lua is a fast and easy to use ECS (Entity Component System) engine for game development.
@@ -135,6 +171,12 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 ## Helpers
 *Game specific Library bundles, that provide reuseable functions*
+
+### Recommended
+
+### Use Case Specific
+
+### Others
 
 * [astray](https://github.com/SiENcE/astray) - Astray is a lua based maze, room and dungeon generation library for dungeon crawlers and roguelike video games.
 * [batteries](https://github.com/1bardesign/batteries/) - Fills out lua's sparse standard library and provides implementations of common algorithms and data structures useful for games.
@@ -169,6 +211,12 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Input
 *Input & Binding Libraries*
 
+### Recommended
+
+### Use Case Specific
+
+### Others
+
 * [baton](https://github.com/tesselode/baton) -  Input library for LÖVE that bridges the gap between keyboard and gamepad controls.
 * [GamepadGuesser](https://github.com/idbrii/love-gamepadguesser) - Get the right button icons for gamepads; load updated gamepad db.
 * [input](https://github.com/xiejiangzhi/input) -  Simple and powerful input library. support check operation time, sequence.
@@ -181,6 +229,12 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Lighting
 *Lighting & Shadow Libraries*
 
+### Recommended
+
+### Use Case Specific
+
+### Others
+
 * [bitumbra](https://github.com/a13X-B/bitumbra) - GPU accelerated many lights 2D shadows.
 * [lighter](https://github.com/speakk/lighter) - A performant dynamic light implementation with a simple API.
 * [Shädows](https://github.com/matiasah/shadows) - A Shadows & Lights engine for LÖVE.
@@ -190,6 +244,12 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 ## Math
 *Math specific Libraries*
+
+### Recommended
+
+### Use Case Specific
+
+### Others
 
 * [Bresenham](https://github.com/rm-code/Bresenham) - Bresenham's line algorithm written in Lua.
 * [brinevector](https://github.com/novemberisms/brinevector) - Standalone lightweight luajit ffi-accelerated 2D vector library for great performance.
@@ -206,6 +266,12 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Music
 *Music related libraries*
 
+### Recommended
+
+### Use Case Specific
+
+### Others
+
 * [denver](https://github.com/superzazu/denver.lua) - A Löve custom waveform generation library.
 * [lovebpm](https://github.com/rxi/lovebpm) - A LÖVE library for syncing events to the BPM of an audio track.
 * [ripple](https://github.com/tesselode/ripple) - An audio manager with tagging support.
@@ -213,6 +279,12 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 ## Networking
 *Networking & Online-Play Libraries*
+
+### Recommended
+
+### Use Case Specific
+
+### Others
 
 * [Grease](https://github.com/bartbes/love-misc-libs/tree/master/grease) - Networking library intended to make networking easy for lovers (TCP, UDP, Enet).  (IPv6)
 * [LoverNet](https://github.com/josefnpat/LoverNet) - A networking library that leverages bitser and enet. (IPv4)
@@ -223,6 +295,12 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 ## OO
 *Object Orientation Libraries that support [Class-Commons](https://github.com/bartbes/Class-Commons)*
+
+### Recommended
+
+### Use Case Specific
+
+### Others
 
 * [30log](https://github.com/Yonaba/30log) - Minified framework for object-orientation in Lua. It features named (and unnamed) classes, single inheritance and a basic support for mixins.
 * [classic](https://github.com/rxi/classic/) - Tiny class module for Lua. Attempts to stay simple and provide decent performance by avoiding unnecessary over-abstraction.
@@ -237,6 +315,12 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Performance
 *Performance measurement tools*
 
+### Recommended
+
+### Use Case Specific
+
+### Others
+
 * [AppleCake](https://github.com/EngineerSmith/AppleCake) - Profiling library for LÖVE, with detailed profiling and thread support.
 * [jprof](https://github.com/pfirsich/jprof) - Profiling library/tool for LÖVE.
 * [Piefiller](https://github.com/Polynominal/Piefiller) - Graphical profiler for LÖVE.
@@ -244,6 +328,12 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 ## Physics
 *Collision Detection & Physics Wrappers*
+
+### Recommended
+
+### Use Case Specific
+
+### Others
 
 * [breezefield](https://github.com/HDictus/breezefield) - A lightweight and easy love.physics wrapper (windfield alternative).
 * [Bump](https://github.com/kikito/bump.lua) - Collision detection library for Lua.
@@ -255,6 +345,12 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Platforms
 *Ports for Platforms other than the ones officially supported by LÖVE*
 
+### Recommended
+
+### Use Case Specific
+
+### Others
+
 * [LoveDos](https://github.com/rxi/lovedos) - A Lua framework for 2D DOS games, implementing a subset of the LÖVE API.
 * [LoveFTW](https://bitbucket.org/T-BoneISS/l-veftw) - Work-in-progress port to Windows phone 8.1.
 * [LÖVE Potion](https://github.com/lovebrew/lovepotion) - Unofficial implementation of the LÖVE for Nintendo (3DS, Switch and Wii U) Homebrew.
@@ -265,11 +361,23 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Publishing
 *Guides to distributing LÖVE games in 3rd party stores*
 
+### Recommended
+
+### Use Case Specific
+
+### Others
+
 * [Love-Snap-Template](https://github.com/popey/love-snap-template) - A template for packaging LÖVE games for distribution in the Snappy Store.
 * [AppImageKit](https://github.com/AppImage/AppImageKit) - Using AppImageKit you can package LÖVE games as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives; one game = one file.
 
 ## Serialization
 *Save Game & Storage Libraries*
+
+### Recommended
+
+### Use Case Specific
+
+### Others
 
 * [arson](https://github.com/flamendless/arson.lua) - Companion library for registering custom data types that can be encoded and decoded by json.lua.
 * [binser](https://github.com/bakpakin/binser) - Customizable Lua Serializer.
@@ -285,6 +393,12 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Shaders
 *GLSL related Libraries*
 
+### Recommended
+
+### Use Case Specific
+
+### Others
+
 * [LoveShaderConverter](https://github.com/tsteinholz/LoveShaderConverter) - Convert Shadertoy Shader files to LÖVE GLSL Files with handy utilities for infinite purposes.
 * [ngrading](https://github.com/MikuAuahDark/NPad93/tree/master/ngrading) - Simple color grading library.
 * [Shadertoy viewer](http://love2d.org/forums/viewtopic.php?f=5&t=80885) - Run code copied from shadertoy directly or output the converted code to a LÖVE shader.
@@ -293,6 +407,12 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 ## Testing
 *Libraries and Tools for Unit Testing*
+
+### Recommended
+
+### Use Case Specific
+
+### Others
 
 * [busted](https://github.com/Olivine-Labs/busted) - Simple unit-testing framework with customizable assertions.
 * [knife.test](https://github.com/airstruck/knife/blob/master/readme/test.md) - Fixture-free test framework.
@@ -305,6 +425,12 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Tweening
 *Smoothing & Timer Libraries*
 
+### Recommended
+
+### Use Case Specific
+
+### Others
+
 * [Flux](https://github.com/rxi/flux) - A fast, lightweight tweening library for Lua.
 * [hump.timer](https://hump.readthedocs.io/en/latest/timer.html) - Timer and tweening library with flexible tweening methods.
 * [knife.timer](https://github.com/airstruck/knife/blob/master/readme/timer.md) - Create timers and tweens with ease.
@@ -314,6 +440,12 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 ## UI
 *User Interface Libraries*
+
+### Recommended
+
+### Use Case Specific
+
+### Others
 
 * [CatUI](https://github.com/wilhantian/catui) - A very light-weight GUI library for LÖVE.
 * [cimgui-love](https://codeberg.org/apicici/cimgui-love) - LÖVE module for Dear ImGui obtained by wrapping cimgui (programmatically generated C-api) using LuaJIT FFI, easy to update to the latest Dear Imgui version.
@@ -347,6 +479,12 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 ## Utilities
 *Non-Game specific libraries and tools*
+
+### Recommended
+
+### Use Case Specific
+
+### Others
 
 * [andromeda](https://github.com/itzKiwiSky/Andromeda) - Asset database and loader for love.
 * [ArrayRotation](https://gist.github.com/rm-code/4118d4a97d8cde16952199d94b84ead0) - Rotation of two dimensional arrays (square and non-square).
@@ -385,6 +523,12 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Tutorials
 *Blogs and tutorials*
 
+### Recommended
+
+### Use Case Specific
+
+### Others
+
 * [learn2love](https://rvagamejams.com/learn2love/) - Book for learning programming with Lua and LÖVE (Version 11.0+).
 * [Using Tiled Maps in LÖVE](http://lua.space/gamedev/using-tiled-maps-in-love) - An article about using maps created with Tiled in your LÖVE game.
 * [Tutorial on making an Arkanoid-type game](https://github.com/noooway/love2d_arkanoid_tutorial/wiki) - A complete tutorial on how to make a breakout clone by nooowaay.
@@ -395,6 +539,12 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 ## IDEs
 *Integrated Development Environments and text editor plugins*
+
+### Recommended
+
+### Use Case Specific
+
+### Others
 
 * [Brackets](http://brackets.io/) - A modern, open source text editor by Adobe (obsolete).
 	* [Lua Syntax Highlighter](https://github.com/ForbesLindesay/brackets-language-extensions) - Add Lua syntax highlighting in Brackets.
@@ -430,6 +580,13 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 ## Distribution
 *Tools that automate game publishing in one way or another*
+
+### Recommended
+
+### Use Case Specific
+
+### Others
+
 * [lover](https://github.com/Wolfyxon/lover) - Bringing the joys of rust's package manager (`Cargo`) to love.
 * [LÖVE Actions](https://github.com/love-actions) - Build & deploy cross-platform game packages on ***ALL*** popular platforms. Supports Android, iOS, Linux, maxOS, Windows.
 * [love-packager](https://github.com/simplifylabs/love-packager) - Simple CLI to package your LÖVE Game in seconds.
